@@ -12,7 +12,11 @@
 }
 
 .logo__fill g {
-  fill: blue;
+  fill: lightgreen;
+}
+
+.logo__fill g:hover {
+  fill: rgb(190, 235, 190);
 }
 
 .nav-links-container {

@@ -1,4 +1,24 @@
 body {
   color: antiquewhite;
-  background-color: black;
+  background-color: #363636;
+}
+
+/* unvisited link */
+a:link {
+  color: lightgreen;
+}
+
+/* visited link */
+a:visited {
+  color: lightgreen;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(190, 235, 190);
+}
+
+/* selected link */
+a:active {
+  color: lightgreen;
 }
