@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Emotr",
+    "description": "An emoji only social network.",
+    "technologies": "Application built using React, Node, Express, PostgreSQL, and Supertest.",
+    "deployment": "https://emotr.herokuapp.com",
+    "github": "https://github.com/emotr-app/emotr",
+    "directory": "emotr",
+    "id": "1"
+  },
+  {
+    "title": "Jesteer",
+    "description": "Imagine a world where tests write themselves.",
+    "technologies": "Website built using Svelte. Application built using HTML, Node, Jest, and Puppeteer.",
+    "deployment": "https://chrome.google.com/webstore/detail/jesteer/kdebfnlogbhaaegljpbkdabogngflnkn",
+    "github": "https://github.com/oslabs-beta/Jesteer",
+    "directory": "jesteer",
+    "id": "2"
+  },
+  {
+    "title": "Karuna Publications",
+    "description": "A publishing, media, and educational initiative.",
+    "technologies": "Website built using HTML and CSS.",
+    "deployment": "http://karunapublications.org/",
+    "github": "",
+    "directory": "karuna-publications",
+    "id": "3"
+  },
+  {
+    "title": "A Perfect Union",
+    "description": "An e-commerce site.",
+    "technologies": "Website built using React, Node, Express, PostgreSQL, and Tailwind CSS.",
+    "deployment": "",
+    "github": "https://github.com/charizardny32/ecommerce",
+    "directory": "a-perfect-union",
+    "id": "4"
+  },
+  {
+    "title": "Song Seeking Devil Chicken",
+    "description": "Amplify your Spotify search experience.",
+    "technologies": "Application built using React, Node, Express, MongoDB, Jest, React Testing Library, and Supertest.",
+    "deployment": "",
+    "github": "https://github.com/song-seeking-devil-chicken/song-seeking-devil-chicken",
+    "directory": "song-seeking-devil-chicken",
+    "id": "5"
+  }
+]

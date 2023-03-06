@@ -11,10 +11,10 @@ const ProjectList = () => {
         <Link to='/emotr'>
           <p>Emotr</p>
         </Link>
-        <Link to='jesteer'>
+        <Link to='/jesteer'>
           <p>Jesteer</p>
         </Link>
-        <Link to='/karuna-publication'>
+        <Link to='/karuna-publications'>
           <p>Karuna Publications</p>
         </Link>
         <Link to='/perfect-union'>
