@@ -1,9 +1,7 @@
-import ProjectList from "../ProjectList/ProjectList";
 import "./Hero.css";
 
 const Hero = () => {
   return (
-      <div className="main-container">
         <div className="hero-container">
           <h1>Clare Cerullo</h1>
           <h2>Software Engineer/Web Developer</h2>
@@ -16,10 +14,6 @@ const Hero = () => {
             years. Feel free to reach out to me via email or LinkedIn!
           </p>
         </div>
-        <div>
-          <ProjectList />
-        </div>
-      </div>
   );
 };
 
