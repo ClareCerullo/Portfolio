@@ -18,10 +18,10 @@ const NavBar = () => {
           <Link className='nav-link' to='mailto:clare.cerullo@gmail.com'>
             <FontAwesomeIcon icon={faEnvelope} />
           </Link>
-          <Link className='nav-link' to='https://www.linkedin.com/in/clarecerullo/'>
+          <Link className='nav-link' to='https://www.linkedin.com/in/clarecerullo/' target='_blank'>
             <FontAwesomeIcon icon={faLinkedin} />
           </Link>
-          <Link className='nav-link' to='https://github.com/ClareCerullo'>
+          <Link className='nav-link' to='https://github.com/ClareCerullo' target='_blank'>
             <FontAwesomeIcon icon={faGithub} />
           </Link>
         </div>

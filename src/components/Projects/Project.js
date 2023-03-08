@@ -7,8 +7,8 @@ const Project = ({ key, id, title, description, technologies, deployment, github
       <h1>{title}</h1>
       <h2>{description}</h2>
       <p>{technologies}</p>
-      <p><Link to={deployment}>Deployed</Link></p>
-      <p><Link to={github}>Github Repository</Link></p>
+      <p><Link to={deployment} target='_blank'>Deployed</Link></p>
+      <p><Link to={github} target='_blank'>Github Repository</Link></p>
     </div>
   )
 }

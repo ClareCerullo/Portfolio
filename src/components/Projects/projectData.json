@@ -6,7 +6,8 @@
     "deployment": "https://emotr.herokuapp.com",
     "github": "https://github.com/emotr-app/emotr",
     "directory": "emotr",
-    "id": "1"
+    "directory2": "/emotr",
+    "id": 1
   },
   {
     "title": "Jesteer",
@@ -15,16 +16,18 @@
     "deployment": "https://chrome.google.com/webstore/detail/jesteer/kdebfnlogbhaaegljpbkdabogngflnkn",
     "github": "https://github.com/oslabs-beta/Jesteer",
     "directory": "jesteer",
-    "id": "2"
+    "directory2": "/jesteer",
+    "id": 2
   },
   {
     "title": "Karuna Publications",
     "description": "A publishing, media, and educational initiative.",
     "technologies": "Website built using HTML and CSS.",
     "deployment": "http://karunapublications.org/",
-    "github": "",
+    "github": "http://karunapublications.org/",
     "directory": "karuna-publications",
-    "id": "3"
+    "directory2": "/karuna-publications",
+    "id": 3
   },
   {
     "title": "A Perfect Union",
@@ -33,7 +36,8 @@
     "deployment": "",
     "github": "https://github.com/charizardny32/ecommerce",
     "directory": "a-perfect-union",
-    "id": "4"
+    "directory2": "/a-perfect-union",
+    "id": 4
   },
   {
     "title": "Song Seeking Devil Chicken",
@@ -42,6 +46,7 @@
     "deployment": "",
     "github": "https://github.com/song-seeking-devil-chicken/song-seeking-devil-chicken",
     "directory": "song-seeking-devil-chicken",
-    "id": "5"
+    "directory2": "/song-seeking-devil-chicken",
+    "id": 5
   }
 ]

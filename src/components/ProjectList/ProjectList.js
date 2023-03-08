@@ -2,7 +2,7 @@ import './ProjectList.css';
 import projectData from '../Projects/projectData.json';
 import ProjectTitles from '../Projects/ProjectTitles';
 
-const ProjectList = ({ key, id, title, description, technologies, deployment, github, directory }) => {
+const ProjectList = ({ id, title, description, technologies, deployment, github, directory }) => {
 
   const ProjectTitlesMap = () => projectData.map((project) => (
     <ProjectTitles
