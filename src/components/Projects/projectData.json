@@ -43,7 +43,7 @@
     "title": "Song Seeking Devil Chicken",
     "description": "Amplify your Spotify search experience.",
     "technologies": "Application built using React, Node, Express, MongoDB, Jest, React Testing Library, and Supertest. (Note: if you would like to try this app out, email me your Spotify username, and I will grant you access.)",
-    "deployment": "",
+    "deployment": "https://song-seeking-devil-chicken.herokuapp.com/",
     "github": "https://github.com/song-seeking-devil-chicken/song-seeking-devil-chicken",
     "directory": "song-seeking-devil-chicken",
     "directory2": "/song-seeking-devil-chicken",
