@@ -33,7 +33,7 @@
     "title": "A Perfect Union",
     "description": "An e-commerce site.",
     "technologies": "Website built using React, Node, Express, PostgreSQL, and Tailwind CSS.",
-    "deployment": "",
+    "deployment": "https://a-perfect-union.herokuapp.com/",
     "github": "https://github.com/charizardny32/ecommerce",
     "directory": "a-perfect-union",
     "directory2": "/a-perfect-union",
@@ -42,7 +42,7 @@
   {
     "title": "Song Seeking Devil Chicken",
     "description": "Amplify your Spotify search experience.",
-    "technologies": "Application built using React, Node, Express, MongoDB, Jest, React Testing Library, and Supertest.",
+    "technologies": "Application built using React, Node, Express, MongoDB, Jest, React Testing Library, and Supertest. (Note: if you would like to try this app out, email me your Spotify username, and I will grant you access.)",
     "deployment": "",
     "github": "https://github.com/song-seeking-devil-chicken/song-seeking-devil-chicken",
     "directory": "song-seeking-devil-chicken",

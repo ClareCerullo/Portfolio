@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-const Project = ({ key, id, title, description, technologies, deployment, github, directory, projects, setProjects, projectDetails, setProjectDetails }) => {
+const Project = ({ id, title, description, technologies, deployment, github, directory, projects, setProjects, projectDetails, setProjectDetails }) => {
 
   return (
     <div className="project-container" key={id}>
